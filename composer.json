@@ -1,11 +1,14 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/livewire-starter-kit",
+    "name": "combizera/teste-starter",
     "type": "project",
-    "description": "The official Laravel starter kit for Livewire.",
+    "description": "Seu Starter Kit personalizado com Livewire + Volt",
     "keywords": [
         "laravel",
-        "framework"
+        "framework",
+        "starter-kit",
+        "livewire",
+        "volt"
     ],
     "license": "MIT",
     "require": {
